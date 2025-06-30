@@ -11,9 +11,9 @@ This project explores the generation of **universal, untargeted adversarial exam
 
 ## 📂 Repository Structure
 
-├── adversarial_ensemble.ipynb  # Colab notebook with all code  
-├── presentation.pdf            # 15-slide overview of methods, results, and conclusions  
-└── README.md                   # This file
+├── Progetto_MLSec_Leandri_Pruner.ipynb  # Colab notebook with project code  
+├── presentation.pdf              
+└── README.md                   
 
 ## Requirements
 - Python 3.7+  
